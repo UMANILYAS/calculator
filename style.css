@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.container{
+    margin-top: 23px;
+   text-align: center;
+   font-family: 'Ubuntu', sans-serif;
+}
+table{
+   margin: auto;
+}
+
+input {
+   font-size: 34px;
+   border: 5px solid black;
+   border-radius: 8px;
+   background-color: #71d6ff;
+}
+button{
+   font-size: 40px;
+   background-color: rgb(237 237 237 / 65%);
+   width: 102px;
+   height: 58px;
+   border-radius: 14px;
+   font-family: 'Ubuntu', sans-serif;
+   
+}
+button:hover{
+  background-color: aqua;
+}
+.calculator {
+   display: inline-block;
+   background-color: #919191;
+   padding: 31px 28px;
+   border-radius: 11px;
+   width: 418px;
+   height: 367px;
+   border: 2px solid white;
+}
+body{
+   background-color: aqua;
+   
+  
+}
+
+.clear{
+   background-color: red;
+}
+.clear:hover{
+   background-color: tomato;
+}
+
+.add{
+   background-color: orange;
+}
+.add:hover{
+   background-color:tomato;
+}
+
+
+h1{
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
